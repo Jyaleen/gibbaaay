@@ -1,5 +1,5 @@
 # gibbaaay
-ARTG3250 Project 2: Tangible Inputs/Game Controller
+ARTG3250 Project 2 (Tangible Inputs/Game Controller): Grubtime for Gibby
 
 Grubtime for Gibby is an interactive micro:bit and Scratch-based game. It allows players to maneuver Gibby using a micro:bit in order to gobble as many bananas (Gibby loves bananas!) as possible while dodging kebabs (Gibby wants bananas, not kebabs). 
 
